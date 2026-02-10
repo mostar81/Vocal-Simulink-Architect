@@ -1,0 +1,23 @@
+# --- MATLAB / Simulink ---
+*.asv
+*.slxc
+*.mex*
+*.log
+slprj/
+cat_temp/
+work/
+*.m~
+
+# --- Python / AI ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv
+env/
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
